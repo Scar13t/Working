@@ -1,0 +1,3 @@
+"Attempting to add application to AppList.
+""Failed to add application. Name or path is missing.
+"
